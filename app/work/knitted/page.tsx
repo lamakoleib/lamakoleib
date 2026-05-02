@@ -29,7 +29,7 @@ export default function KnittedCaseStudy() {
 
       <Section
         title="The brief"
-        body="Fibre artists — knitters, crocheters, weavers — have been sharing work on Instagram and Ravelry for years, but neither platform was built for them. Instagram lacks project tracking; Ravelry hasn't had a meaningful redesign in a decade. Knitted is a purpose-built social platform: a feed of finished objects, a project tracker with yarn and needle specs, and a pattern library, all in one."
+        body="Fibre artists: knitters, crocheters, weavers, have been sharing work on Instagram and Ravelry for years, but neither platform was built for them. Instagram lacks project tracking; Ravelry hasn't had a meaningful redesign in a decade. Knitted is a purpose-built social platform: a feed of finished objects, a project tracker with yarn and needle specs, and a pattern library, all in one."
       />
 
       <Section
@@ -39,7 +39,7 @@ export default function KnittedCaseStudy() {
 
       <Section
         title="Post = project"
-        body="The key design insight was that a 'post' in Knitted is also a project record. When you share a photo, you're also logging the yarn type, needle size, pattern, and status. That dual nature means your feed is also your project history — you never have to maintain a separate tracker."
+        body="The key design insight was that a 'post' in Knitted is also a project record. When you share a photo, you're also logging the yarn type, needle size, pattern, and status. That dual nature means your feed is also your project history; you never have to maintain a separate tracker."
       />
 
       <PhoneRow
@@ -59,7 +59,7 @@ export default function KnittedCaseStudy() {
 
       <Section
         title="Engineering highlights"
-        body="RabbitMQ handles async notifications (new followers, comments, pattern requests) so they don't block the main request cycle. PostgreSQL models the many-to-many relationships between projects, yarn types, and patterns. The Next.js frontend is fully server-rendered for SEO — pattern and profile pages are indexable, which matters for a discovery-driven platform."
+        body="RabbitMQ handles async notifications (new followers, comments, pattern requests) so they don't block the main request cycle. PostgreSQL models the many-to-many relationships between projects, yarn types, and patterns. The Next.js frontend is fully server-rendered for SEO; pattern and profile pages are indexable, which matters for a discovery-driven platform."
       />
 
       <Section

@@ -20,8 +20,8 @@ export default function About() {
       <div className="mt-12 grid gap-12 md:mt-20 md:grid-cols-[2fr_1fr] md:gap-20">
         <div className="space-y-6 text-lg leading-relaxed text-ink-soft md:text-xl">
           <p>
-            I&rsquo;m Lama Koleib — a software engineering student at the
-            University of Ottawa (graduating January 2026, 3.85 GPA) who
+            I&rsquo;m Lama Koleib, a software engineering student at the
+            University of Ottawa (graduating January 2026, 3.85 GPA). I
             started out in graphic design and never quite let it go. My
             favourite problems sit where product strategy, careful interfaces,
             and well-built code overlap.
@@ -30,14 +30,12 @@ export default function About() {
             Most recently I was a Technical Project Manager at Global Affairs
             Canada, translating business requirements into sprint-ready stories
             and reporting KPIs to director-level stakeholders. Before that I
-            was a Software Developer on the same platform — doing UX research,
+            was a Software Developer on the same platform, doing UX research,
             front-end work, and data migration with Python and SQL.
           </p>
           <p>
             I started my career as a graphic design intern at Porsche Prestige
-            in Montreal, where I made a motion piece that played on a 20-foot
-            billboard at the 2019 Canadian Grand Prix. That project is still
-            one of my favourites.
+            in Montreal, where I made a motion piece for the 2019 Canadian Grand Prix, which is one of my favourite pieces of work.
           </p>
         </div>
 

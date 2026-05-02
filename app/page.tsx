@@ -65,7 +65,7 @@ export default function Home() {
         </h1>
         <p className="mt-8 max-w-2xl text-lg text-ink-soft md:text-xl">
           A small selection of projects I&rsquo;ve shipped over the past few
-          years — apps, motion, and the occasional screen-printed surprise.
+          years: apps, motion, and the occasional screen-printed surprise.
         </p>
       </section>
 

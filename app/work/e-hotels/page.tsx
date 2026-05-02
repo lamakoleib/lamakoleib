@@ -23,7 +23,7 @@ export default function EHotelsCaseStudy() {
       <Hero />
       <Section
         title="The brief"
-        body="Most hotel booking flows still feel like airline forms — dense, anxious, accidentally hostile. e-Hotels is a small experiment in what a booking surface could feel like if it were treated as a calm, almost spa-like product. The neumorphic shell, soft sage palette, and tactile controls are doing the heavy lifting."
+        body="Most hotel booking flows still feel like airline forms: dense, anxious, accidentally hostile. e-Hotels is a small experiment in what a booking surface could feel like if it were treated as a calm, almost spa-like product. The neumorphic shell, soft sage palette, and tactile controls do the heavy lifting."
       />
 
       <Section
@@ -48,7 +48,7 @@ export default function EHotelsCaseStudy() {
 
       <Section
         title="Search results, but breathing"
-        body="Result cards include just enough information — image, location, rating, capacity, amenities, and price — and live inside generous whitespace. Filters are docked to the side, hiding behind a single soft container."
+        body="Result cards include just enough information (image, location, rating, capacity, amenities, and price) set inside generous whitespace. Filters are docked to the side behind a single soft container."
       />
 
       <Showcase
@@ -59,7 +59,7 @@ export default function EHotelsCaseStudy() {
 
       <Section
         title="Reflections"
-        body="The hardest part wasn't the visual style — it was deciding what to leave out. Every booking site wants to add a banner. The win here was holding the line on quiet."
+        body="The hardest part wasn't the visual style; it was deciding what to leave out. Every booking site wants to add a banner. The win here was holding the line on quiet."
       />
     </CaseStudy>
   );

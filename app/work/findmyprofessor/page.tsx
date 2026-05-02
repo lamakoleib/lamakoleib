@@ -25,29 +25,29 @@ export default function FindMyProfessorCaseStudy() {
 
       <Section
         title="The problem"
-        body="Finding a research supervisor in Canada is surprisingly hard. University faculty directories are inconsistent — some schools list research interests, some don't. Students end up cold-emailing professors based on a Google search and hoping for the best. findmyprofessor.ca aggregates professors from 25+ Canadian universities into one searchable, filterable index."
+        body="Finding a research supervisor in Canada is surprisingly hard. University faculty directories are inconsistent; some schools list research interests, some don't. Students end up cold-emailing professors based on a Google search and hoping for the best. findmyprofessor.ca aggregates professors from 25+ Canadian universities into one searchable, filterable index."
       />
 
       <Section
         title="My role"
-        body="I designed the full UI — landing page, search experience, and professor profile cards — working in Figma and polishing assets in Illustrator and Photoshop. The product was built by a small team; I owned the design end-to-end, from early wireframes to final specs handed off to engineering."
+        body="I designed the full UI (landing page, search experience, and professor profile cards) in Figma, polishing assets in Illustrator and Photoshop. The product was built by a small team; I owned the design end-to-end, from early wireframes to final specs handed off to engineering."
       />
 
       <Section
         title="Search that feels obvious"
-        body="The search experience needed to handle three different user intents: finding a specific professor by name, exploring a research area, and filtering by practical criteria (department, school, whether they're accepting students). The result was a unified search bar paired with persistent filter chips — no separate pages, no mode switching."
+        body="The search experience needed to handle three different user intents: finding a specific professor by name, exploring a research area, and filtering by practical criteria (department, school, whether they're accepting students). The result was a unified search bar paired with persistent filter chips; no separate pages, no mode switching."
       />
 
       <Showcase
         src="/artifacts/findmyprof-results.png"
         alt="Search results for 'Human Computer Interaction' showing professor cards with tags, ratings, and contact links"
-        caption="Results — professors surfaced by relevance with research tags, student-acceptance status, and direct contact links."
+        caption="Results: professors surfaced by relevance with research tags, student-acceptance status, and direct contact links."
         aspect="2008 / 1706"
       />
 
       <Section
         title="Scale"
-        body="The platform now serves 1,000+ active users and processes over 4,500 search queries a month. Designing for that density early — making sure professor cards were scannable at scale, that tag systems didn't collapse under hundreds of research areas — was the central design challenge."
+        body="The platform now serves 1,000+ active users and processes over 4,500 search queries a month. Designing for that density early was the central challenge: making sure professor cards stayed scannable at scale and tag systems didn't collapse under hundreds of research areas."
       />
     </CaseStudy>
   );

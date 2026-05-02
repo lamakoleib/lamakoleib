@@ -6,7 +6,7 @@ import { getProject } from "@/lib/projects";
 export const metadata: Metadata = {
   title: "Porsche Prestige × F1 — Lama",
   description:
-    "A motion piece for the Montreal Grand Prix, screened at the 2019 event.",
+    "A motion piece for the Montreal Grand Prix, the F1 2019 event.",
 };
 
 export default function PorscheCaseStudy() {
@@ -23,17 +23,17 @@ export default function PorscheCaseStudy() {
 
       <Section
         title="The moment"
-        body="The Canadian Grand Prix comes through Montreal once a year and the city turns into one big motorsport conversation. Porsche Prestige wanted a short motion piece to play during their F1 weekend programming — fast, premium, unmistakably Porsche."
+        body="The Canadian Grand Prix comes through Montreal once a year and the city turns into one big motorsport conversation. Porsche Prestige wanted a short motion piece for their F1 weekend: fast, premium, unmistakably Porsche, partnering with Wingo Racing for the 2019 GT3 Cup Challenge featuring driver Martin Harvey."
       />
 
       <Section
         title="My role"
-        body="I joined Porsche Prestige as a graphic design intern in 2019. I designed and animated this spot end-to-end in After Effects, working from existing brand assets and a creative brief from the marketing team. It was screened at the official Montreal F1 event that year."
+        body="I joined Porsche Prestige as a graphic design intern in 2019. I designed and animated this spot end-to-end in After Effects, working from existing brand assets provided by Porsche Germany and a creative brief from the marketing team."
       />
 
       <Section
         title="Direction"
-        body="Two ideas drove the edit: speed as a feeling (cuts on the beat, motion blur, restraint with type) and prestige as a posture (negative space, tight crops, no novelty effects). The Porsche brand voice does the heavy lifting; my job was to stay out of its way."
+        body="Two ideas drove the edit: speed as a feeling (cuts on the beat, motion blur, restraint with type) and prestige as a posture (negative space, tight crops, no novelty effects). Porsche had a couple of guidelines and a list of car makes and specific angles to show off, but beyond that, it was pretty open creatively."
       />
     </CaseStudy>
   );

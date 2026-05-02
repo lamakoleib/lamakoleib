@@ -18,7 +18,7 @@ export default function MealerCaseStudy() {
     <CaseStudy
       project={project}
       context="Course project (Group 27)"
-      team="4-person team"
+      team="5-person team"
       stack={["Android Studio", "Java", "Firebase", "Figma"]}
       links={[{ label: "Read the full report (PDF)", href: "/artifacts/Mealer_Report_Group27.pdf" }]}
     >
@@ -26,24 +26,24 @@ export default function MealerCaseStudy() {
 
       <Section
         title="The premise"
-        body="Mealer is a two-sided app: cooks list dishes they make at home, clients browse and order them. Two account types, two flows, one shared object — the meal. We built it as a final project for a software engineering course, end-to-end on Android."
+        body="Mealer is a two-sided app: cooks list dishes they make at home, clients browse and order them. Two account types, two flows, one shared object: the meal. We built it as a final project for a software engineering course, end-to-end on Android."
       />
 
       <Section
         title="Two roles, one app"
-        body="Both cook and client begin at the same login screen but immediately diverge. Cooks land in a dashboard for managing dishes and orders; clients drop into a discovery feed grouped by cuisine and meal type. Keeping the two flows visually identical at the shell level — same nav, same colour, same type — meant we could share a lot more code than we expected."
+        body="Both cook and client begin at the same login screen but immediately diverge. Cooks land in a dashboard for managing dishes and orders; clients drop into a discovery feed grouped by cuisine and meal type. Keeping the two flows visually identical at the shell level (same nav, same colour, same type) meant we could share a lot more code than we expected."
       />
 
       <FlowComposite />
 
       <Section
         title="Discovery, not search"
-        body="Most food apps default to a search bar. Ours leads with cuisines and meal types — Italian, Mexican, Breakfast, Lunch — because that's how people actually decide what they want. The search bar is there, but it earns its keep behind the categories instead of dominating the screen."
+        body="Most food apps default to a search bar. Ours leads with cuisines and meal types (Italian, Mexican, Breakfast, Lunch) because that's how people actually decide what they want. The search bar is there, but it earns its place behind the categories instead of dominating the screen."
       />
 
       <Section
         title="Building it"
-        body="Java and Android Studio for the app, Firebase for auth and the meal database, Figma for the screens. The biggest engineering lift was modeling the order state machine — a meal moves through several states before the client receives it, and both sides of the marketplace need to see the right view at the right time."
+        body="Java and Android Studio for the app, Firebase for auth and the meal database, Figma and Adobe Creative Suite for the screens. The biggest engineering lift was modeling the order state machine — a meal moves through several states before the client receives it, and both sides of the marketplace need to see the right view at the right time."
       />
 
       <Section
